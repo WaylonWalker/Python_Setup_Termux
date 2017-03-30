@@ -19,7 +19,7 @@ apt install freetype-dev
 
 Now setup your python environment with your favorite packages.
 ```
-pip install pandas matplotlib seaborn bottle
+pip install pandas matplotlib bottle
 ```
 
 
