@@ -1,1 +1,3 @@
-# test /n testing git from termux
+# test 
+
+testing git from Termux for android
