@@ -1,0 +1,122 @@
+    1  pip list
+    2  python
+    3  nano temp.py
+    4  packages install nano
+    5  packages install nano
+    6  nano temp.py
+    7  python temp.py
+    8  vim
+    9  ls
+   10  info bash
+   11  $dir
+   12  $dirname
+   13  cd ..
+   14  ls
+   15  cd home
+   16  ls
+   17  cd ..
+   18  cd usr
+   19  ls
+   20  cd bin
+   21  ls
+   22  cd ..
+   23  cd 
+   24  cd..
+   25  ls
+   26  git
+   27  nano temp.py 
+   28  vi temp.py 
+   29  python temp.py 
+   30  nano temp.py 
+   31  python temp.py 
+   32  pip install pandas
+   33  python
+   34  pip3 install pandas
+   35  pip install numpy --use-wheel
+   36  apt install conda
+   37  apt-get conda
+   38  apt-get install conda
+   39  apt install Miniconda3
+   40  bash Miniconda3
+   41  bash Anaconda-2.3.0-Linux-x86_64.sh
+   42  apt install wget
+   43  wget -c http://repo.continuum.io/miniconda/Miniconda-latest-Linux-x86_64.sh
+   44  conda install pandas
+   45  cknda
+   46  minicomda
+   47  miniconda
+   48  ls
+   49* bash Miniconda-latest-Linux-x86_64.sh w
+   50  rm Miniconda-latest-Linux-x86_64.sh 
+   51  ls
+   52  wget -c http://repo.continuum.io/miniconda/Miniconda-latest-Linux-x86.sh
+   53  sudo pip install numpy
+   54  apt install sudo
+   55  apt install python-numpy
+   56  pip install numpy
+   57  apt install gcc
+   58  apt install brew
+   59  apt-get install build-essential
+   60  apt get clang -std=c++14
+   61  apt install clang++ -std=c++14
+   62  pip install numpy
+   63  clang
+   64  apt install clang
+   65  pip install numpy
+   66  apt install g++
+   67  apt remove clang
+   68  pip install numpy
+   69  apt install g++
+   70  pip install numpy
+   71  pip install python-dev
+   72  pip install python-devel
+   73  apt install python-dev
+   74  pip install numpy
+   75  pip install pandas
+   76  pip install matplotlib
+   77  python
+   78  pip install matplotlib
+   79  pip install freetype
+   80  python
+   81  apt-get libfreetype6-dev
+   82  apt-get install libfreetype6-dev
+   83  apt install libfreetype6e-dev
+   84  apt install libfreetype6-dev
+   85  apt install freetype
+   86  pip install matplotlib
+   87* apt install freetype-devw
+   88  pip install matplotlib
+   89  pip install matplotlib
+   90  python
+   91  pip install pyobject
+   92  pip install pygobject
+   93  python
+   94  python
+   95  ls
+   96  test.png
+   97  open
+   98  xdg-open test.png
+   99  pip install bottle
+  100  pip install jupyter
+  101  jupyter notebook
+  102  apt install zmq_strerror
+  103  ipython
+  104  apt install git
+  105  mkdir test
+  106  cd test
+  107  echo "# test /n testing git from termux" >> readme.md
+  108  git init
+  109  git add readme.md
+  110  git commit -m "first commit"
+  111  git config --glob user.email quadmx08@gmail.com
+  112  git config --global user.email quadmx08@gmail.com
+  113  git config --global user.name "Waylon Walker"
+  114  git commit -m "first commit"
+  115  remote add origin https://github.com/WaylonWalker/test.git
+  116  git remote add origin https://github.com/WaylonWalker/test.git
+  117  git push -u origin master
+  118  nano readme.md
+  119  git commit . "updated readme.md"
+  120  git commit . -m  "updated readme.md"
+  121  git push
+  122  history >> history.txt
