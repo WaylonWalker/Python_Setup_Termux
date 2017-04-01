@@ -21,5 +21,7 @@ Now setup your python environment with your favorite packages.
 ```
 pip install pandas matplotlib bottle
 ```
+##Example
 
+CO2 emissions data from data.world [report](http://htmlpreview.github.io/?https://github.com/WaylonWalker/test/blob/gh-pages/co2plot.html)
 
