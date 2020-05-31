@@ -10,12 +10,11 @@ def index():
     title = 'Hello World'
     plot = 'plot placeholder'
     footer = 'created fron an android device using Termux'
-    html = f'''<h1> {title} </h1>
+    return f'''<h1> {title} </h1>
              <br>
              {plot}
              <br>
              {footer}'''
-    return html
 
 
 if __name__ == '__main__':
